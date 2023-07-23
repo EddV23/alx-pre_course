@@ -1,2 +1,1 @@
-My second readme
-This line was edited with GitHub GUI
+My GitHub GUI edit
